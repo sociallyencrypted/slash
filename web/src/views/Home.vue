@@ -4,7 +4,7 @@
 			Hello, <span class="blue">{{ currentUser.username }}</span>
 		</h5>
 		<h1 class="zero">You're registered for Slash.</h1>
-		<h4>The event will start at 11:59 PM.</h4>
+		<h4>coming soon.</h4>
 
 		<section id="info">
 			<div class="row">
