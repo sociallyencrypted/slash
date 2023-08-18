@@ -125,6 +125,11 @@ export default {
 	border: 2px solid rgba(34, 34, 34, 0.192);
 	padding: 3em 2em 0 2em;
 	border-radius: 0.75em;
+	box-shadow: 0 8px 32px 0 rgba( 31, 38, 35, 0.37 );
+backdrop-filter: blur( 7.5px );
+-webkit-backdrop-filter: blur( 6px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 
 .alert-danger {

@@ -3,7 +3,9 @@
 		<div class="navcont">
 			<nav :class="`nav nav-${$route.meta.title}`">
 				<h4>
-					<router-link to="/">Slash</router-link>
+					<router-link to="/">
+						<img src="/slash.svg" class="logoimg" alt="" />
+					</router-link>
 				</h4>
 			</nav>
 		</div>
@@ -64,6 +66,10 @@ export default {
 <style lang="scss">
 .nav-Home {
 	display: none;
+}
+
+.logoimg {
+	width: 3em;
 }
 
 nav.nav {

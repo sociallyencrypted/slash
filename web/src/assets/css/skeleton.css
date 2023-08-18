@@ -85,7 +85,7 @@ html {
 body {
 	font-size: 1.5em;
 	line-height: 1.6;
-	color: #222;
+	color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -175,7 +175,7 @@ p {
 
 .button.button-primary, button.button-primary, input[type='button'].button-primary, input[type='reset'].button-primary, input[type='submit'].button-primary {
 	color: #fff;
-	background-color: #33c3f0;
+	background-color: 33c3f0;
 	border-color: #33c3f0;
 }
 
